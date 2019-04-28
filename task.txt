@@ -1,0 +1,13 @@
+蓝通图,cat0.jpg,cat0_o.png
+灰度图,cat1.jpg,cat1_o.png
+红通图,cat2.jpg,cat2_o.png
+绿通图,cat3.jpg,cat3_o.png
+灰度图,cat4.jpg,cat4_o.png
+变亮10%,cat5.jpg,cat5_o.png
+变暗10%,cat6.jpg,cat6_o.png
+蓝通图,cat7.jpg,cat7_o.png
+绿通图,cat8.jpg,cat8_o.png
+变亮10%,cat9.jpg,cat9_o.png
+部分灰度,1.2,curb.jpg,curb_o.png
+部分灰度,1.4,stop.jpg,stop_o.png
+蓝屏特效,1.5,stop.jpg,leaves.jpg,stop_o.png
